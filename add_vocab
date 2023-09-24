@@ -1,0 +1,43 @@
+#!/usr/bin/bash
+
+# === install translate-shell ===
+# ubuntu/debian: sudo apt install translate-shell
+# arch/manjaro: sudo pacman -S translate-shell
+# fedora: sudo dnf install translate-shell
+
+# touch vocab.txt
+# chmod +x add.sh
+# run "./add.sh <word-to-translate>"
+
+# run "trans -T" to check the table reference of ID each languages
+lang_from=en 	#choose input of language
+lang_to=id	#choose target of language
+
+already=0
+while IFS= read -r line
+do
+	word=$(echo $line | awk '{print $8}' | cut -d ":" -f 1)
+	if [[ $word = $1 ]]
+	then
+		already=1
+		echo "$1 already added"
+		echo $line
+		exit 0
+	fi
+done < "vocab.txt"
+
+if [[ $already -eq 0 ]]
+then
+	trans $lang_from:$lang_to $1
+	sleep 1
+	echo "$(date) $1" >> vocab.txt
+	translate=$(trans $lang_from:$lang_to $1 | awk 'END{print}')
+	replace="$1\:$translate"
+	sed -i "s/$1/$replace/" vocab.txt
+	echo -e "\n"
+	tail vocab.txt
+	echo -e "\nTotal of Words: $(wc -l vocab.txt | awk '{print $1}')"
+
+	## uncomment the below for sorting vocab.txt by alphabet
+	#sort -k 8 vocab.txt
+fi

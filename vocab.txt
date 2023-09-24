@@ -1,0 +1,205 @@
+Sun 11 Dec 2022 09:20:18 AM WIB tremendous:     [1mluar biasa besar[22m, [1mdahsyat[22m, [1msangat[22m, [1mluar biasa[22m, [1mhebat[22m
+Sun 11 Dec 2022 09:20:18 AM WIB vetted:     [1mdiperiksa[22m, [1mmemeriksa[22m
+Sun 11 Dec 2022 09:20:18 AM WIB leverage:     [1mmanfaat[22m, [1mmemanfaatkan[22m, [1mpengaruh[22m, [1mleverage[22m, [1mdaya ungkit[22m
+Sun 11 Dec 2022 09:20:18 AM WIB morbidity:     [1mmorbiditas[22m, [1mpenyakit[22m
+Sun 11 Dec 2022 09:20:18 AM WIB pursue:     [1mmengejar[22m, [1mkejar[22m
+Sun 11 Dec 2022 09:20:18 AM WIB decades:     [1mdekade[22m, [1mpuluhan tahun[22m
+Sun 11 Dec 2022 09:20:18 AM WIB mortality:     [1mkematian[22m, [1mmortalitas[22m
+Sun 11 Dec 2022 09:20:18 AM WIB pletora:     [1mkebanyakan[22m, [1mbanyak[22m
+Sun 11 Dec 2022 09:20:18 AM WIB manner:     [1mtata krama[22m, [1mcara[22m, [1mdengan cara[22m
+Sun 11 Dec 2022 09:21:00 AM WIB toponym:     [1mtoponim[22m, [1mnama tempat[22m
+Sun 11 Dec 2022 09:23:25 AM WIB precise:     [1mtepat[22m, [1mpresisi[22m
+Sun 11 Dec 2022 09:24:27 AM WIB heuristic:     [1mheuristis[22m, [1mheuristik[22m, [1mheuristic[22m
+Sun 11 Dec 2022 10:05:27 AM WIB abbreviations:     [1msingkatan[22m, [1msingkatannya[22m
+Sun 11 Dec 2022 10:08:01 AM WIB contigous:     [1mberdekatan[22m, [1mberdampingan[22m, [1mberbatasan[22m, [1mbersebelahan[22m
+Sun 11 Dec 2022 10:09:03 AM WIB spanning:     [1mmencakup[22m, [1mmerentang[22m
+Sun 11 Dec 2022 10:22:40 AM WIB entity:    [1mkesatuan[22m, [1mentitas[22m, [1mbadan[22m:    [1mkesatuan[22m, [1mentitas[22m
+Sun 11 Dec 2022 10:29:01 AM WIB seeks:    [1mmencari[22m, [1mberusaha[22m
+Sun 11 Dec 2022 10:36:43 AM WIB leveraging:    [1mmemanfaatkan[22m, [1mleverage[22m
+Sun 11 Dec 2022 10:39:11 AM WIB certain:    [1myakin[22m, [1mtertentu[22m, [1mbeberapa[22m, [1mpasti[22m
+Sun 11 Dec 2022 10:42:53 AM WIB distinguish:    [1mmembedakan[22m, [1mbedakan[22m
+Sun 11 Dec 2022 10:43:45 AM WIB proposed:    [1mdiajukan[22m, [1mdiusulkan[22m, [1mmengusulkan[22m
+Sun 11 Dec 2022 10:59:12 AM WIB consists:    [1mterdiri[22m, [1mterdiri dari[22m
+Sun 11 Dec 2022 11:00:01 AM WIB comprehend:    [1mmemahami[22m, [1mmengerti[22m
+Sun 11 Dec 2022 11:01:18 AM WIB bias:    [1mbias[22m, [1mmenimbulkan bias[22m, [1mberat sebelah[22m
+Sun 11 Dec 2022 11:03:44 AM WIB proximity:    [1mkedekatan[22m, [1mproximity[22m
+Sun 11 Dec 2022 11:43:39 AM WIB prior:    [1msebelumnya[22m, [1msebelum[22m
+Sun 11 Dec 2022 11:45:36 AM WIB county:    [1mdaerah[22m, [1mwilayah[22m, [1mkabupaten[22m
+Sun 11 Dec 2022 11:46:39 AM WIB despite:    [1mmeskipun[22m, [1mmeski[22m, [1mwalaupun[22m, [1mkendati[22m
+Sun 11 Dec 2022 11:48:42 AM WIB tidal:    [1mpasang surut[22m, [1mair pasang[22m
+Sun 11 Dec 2022 11:49:25 AM WIB foregoing:    [1msebelumnya[22m, [1mdi atas[22m
+Sun 11 Dec 2022 11:52:33 AM WIB skew:    [1mcondong[22m, [1mmiring[22m, [1mberbuat curang[22m
+Sun 11 Dec 2022 11:57:52 AM WIB vast:    [1mluas[22m, [1msangat luas[22m
+Sun 11 Dec 2022 12:00:58 PM WIB sparseness:    [1mkekurangan[22m, [1mkesempitan[22m, [1mjarang[22m
+Sun 11 Dec 2022 12:02:52 PM WIB involves:    [1mmelibatkan[22m, [1mterlibat[22m
+Sun 11 Dec 2022 12:04:03 PM WIB priming:    [1mcat dasar[22m, [1mpriming[22m, [1mpersiapan awal[22m
+Sun 11 Dec 2022 12:04:41 PM WIB aid:    [1mbantuan[22m, [1mmembantu[22m, [1mpertolongan[22m, [1mtolong[22m
+Sun 11 Dec 2022 12:08:24 PM WIB slopes:    [1mlereng[22m, [1mtanjakan[22m
+Sun 11 Dec 2022 12:08:55 PM WIB deduce:    [1mmenyimpulkan[22m, [1mmenarik kesimpulan[22m
+Sun 11 Dec 2022 12:22:11 PM WIB implications:    [1mimplikasi[22m, [1mimplikasinya[22m
+Sun 11 Dec 2022 12:24:12 PM WIB accomplish:    [1mmenyelesaikan[22m, [1mcapai[22m
+Sun 11 Dec 2022 02:39:20 PM WIB owing:    [1myg berhutang[22m, [1mterhutang[22m, [1mberhutang[22m, [1mberutang[22m
+Sun 11 Dec 2022 02:43:49 PM WIB vague:    [1mtidak jelas[22m, [1msamar[22m, [1mkabur[22m
+Sun 11 Dec 2022 02:45:35 PM WIB incorporate:    [1mmenggabungkan[22m, [1mmemasukkan[22m, [1mmasukkan[22m
+Sun 11 Dec 2022 02:49:18 PM WIB rise:    [1mbangkit[22m, [1mkebangkitan[22m, [1mnaik[22m, [1mkenaikan[22m, [1mmeningkat[22m
+Sun 11 Dec 2022 02:49:35 PM WIB abundance:    [1mkelimpahan[22m, [1mbanyak[22m
+Sun 11 Dec 2022 02:52:57 PM WIB arbitrary:    [1msewenang-wenang[22m, [1msembarangan[22m
+Sun 11 Dec 2022 03:04:41 PM WIB comprises:    [1mterdiri[22m, [1mterdiri dari[22m
+Sun 11 Dec 2022 03:10:44 PM WIB conduct:    [1mmengadakan[22m, [1mtingkah laku[22m, [1mmelakukan[22m
+Sun 11 Dec 2022 03:11:50 PM WIB afterward:    [1mkemudian[22m, [1msetelah itu[22m, [1msesudah itu[22m, [1msesudahnya[22m
+Sun 11 Dec 2022 03:12:59 PM WIB emerged:    [1mmuncul[22m, [1mbermunculan[22m
+Sun 11 Dec 2022 03:14:49 PM WIB treated:    [1mdiperlakukan[22m, [1mdirawat[22m, [1mdiobati[22m
+Sun 11 Dec 2022 03:15:19 PM WIB inference:    [1mkesimpulan[22m, [1minferensi[22m
+Sun 11 Dec 2022 03:15:47 PM WIB assess:    [1mmenilai[22m, [1mmenaksir[22m, [1mpenilaian[22med:    [1mdinilai[22m, [1mmenilai[22m
+Sun 11 Dec 2022 07:45:15 PM WIB elucidated:    [1mdijelaskan[22m, [1mdiuraikan[22m
+Sun 11 Dec 2022 07:45:27 PM WIB considerable:    [1mbesar[22m, [1mcukup besar[22m, [1mlumayan[22m
+Sun 11 Dec 2022 07:45:35 PM WIB labor:    [1mtenaga kerja[22m, [1mbekerja[22m, [1mkerja[22m, [1mburuh[22m, [1mpersalinan[22m
+Sun 11 Dec 2022 07:46:13 PM WIB numerous:    [1mbanyak sekali[22m, [1mbanyak[22m
+Sun 11 Dec 2022 07:46:47 PM WIB merit:    [1mkemampuan[22m, [1mpantas[22m, [1mjasa[22m, [1mmanfaat[22m, [1mpahala[22m
+Sun 11 Dec 2022 07:47:02 PM WIB fed:    [1mdiberi makan[22m, [1mmakan[22m
+Sun 11 Dec 2022 07:47:12 PM WIB conveyed:    [1mdisampaikan[22m, [1mtersampaikan[22m
+Sun 11 Dec 2022 07:47:24 PM WIB notably:    [1mterutama[22m, [1mkhususnya[22m
+Sun 11 Dec 2022 07:47:44 PM WIB alleviate:    [1mmeringankan[22m, [1mmengurangi[22m, [1mmeredakan[22m
+Sun 11 Dec 2022 07:48:01 PM WIB adversarial:    [1mpermusuhan[22m, [1mbermusuhan[22m
+Sun 11 Dec 2022 07:48:22 PM WIB portability:    [1mportabilitas[22m, [1mmudah dipindahkan[22m
+Sun 11 Dec 2022 07:48:39 PM WIB denote:    [1mmenunjukkan[22m, [1mmenyatakan[22m, [1mmenandakan[22m, [1mberarti[22m
+Sun 11 Dec 2022 07:50:57 PM WIB dependency:    [1mketergantungan[22m, [1mdependensi[22m
+Sun 11 Dec 2022 07:52:11 PM WIB obtain:    [1mmemperoleh[22m, [1mmendapatkan[22m, [1mmendapat[22m, [1mdapatkan[22m
+Sun 11 Dec 2022 07:54:32 PM WIB employs:    [1mmempekerjakan[22m, [1mkaryawan[22m
+Sun 11 Dec 2022 08:10:59 PM WIB regard:    [1mpandangan[22m, [1mmenganggap[22m, [1mhal[22m, [1mmemandang[22m, [1mmemperhatikan[22m
+Sun 11 Dec 2022 08:22:54 PM WIB baselines:    [1mgaris dasar[22m, [1mbaseline[22m
+Sun 11 Dec 2022 08:23:23 PM WIB utilize:    [1mmemanfaatkan[22m, [1mmenggunakan[22m, [1mgunakan[22m
+Sun 11 Dec 2022 08:29:19 PM WIB comprised:    [1mterdiri[22m, [1mtermasuk[22m
+Sun 11 Dec 2022 08:31:10 PM WIB auxiliary:    [1mbantu[22m, [1mpembantu[22m, [1mtambahan[22m
+Sun 11 Dec 2022 08:39:35 PM WIB insufficient:    [1mtidak memadai[22m, [1mtidak cukup[22m
+Sun 11 Dec 2022 08:47:03 PM WIB inferior:    [1minferior[22m, [1mlebih rendah[22m
+Sun 11 Dec 2022 08:47:46 PM WIB ablation:    [1mablasi[22m, [1mAblasi[22m
+Sun 11 Dec 2022 08:48:58 PM WIB slightly:    [1magak[22m, [1msedikit[22m
+Sun 11 Dec 2022 08:49:49 PM WIB indeed:    [1mmemang[22m, [1msesungguhnya[22m, [1mSungguh[22m, [1mbahkan[22m
+Sun 11 Dec 2022 08:56:22 PM WIB adequately:    [1mcukup[22m, [1msecara memadai[22m
+Sun 11 Dec 2022 08:56:42 PM WIB glaring:    [1mmenyolok[22m, [1mmelotot[22m, [1mmencolok[22m
+Mon 12 Dec 2022 10:29:03 AM WIB spans:    [1mrentang[22m, [1mspan[22m
+Mon 12 Dec 2022 10:31:09 AM WIB decent:    [1mbaik[22m, [1mlayak[22m, [1msopan[22m
+Mon 12 Dec 2022 10:35:20 AM WIB yielding:    [1mmenghasilkan[22m, [1mmenyerah[22m
+Mon 12 Dec 2022 10:38:02 AM WIB rigid:    [1mkaku[22m, [1mtegar[22m
+Mon 12 Dec 2022 10:41:13 AM WIB devote:    [1mmendedikasikan[22m, [1mmenyerahkan[22m, [1mmencurahkan[22m, [1mmembaktikan[22m, [1mmengabdikan[22m
+Mon 12 Dec 2022 10:43:12 AM WIB restriction:    [1mlarangan[22m, [1mpembatasan[22m, [1mbatasan[22m, [1mrestriksi[22m
+Mon 12 Dec 2022 10:48:34 AM WIB attracted:    [1mtertarik[22m, [1mmenarik[22m
+Mon 12 Dec 2022 10:49:45 AM WIB flourishing:    [1mmaju[22m, [1msubur[22m, [1mberkembang[22m
+Mon 12 Dec 2022 10:51:42 AM WIB thriving:    [1mberkembang[22m, [1mberkembang pesat[22m
+Mon 12 Dec 2022 10:54:31 AM WIB fallacies:    [1mkekeliruan[22m, [1mfallacy[22m
+Mon 12 Dec 2022 10:55:31 AM WIB germane:    [1merat[22m, [1mberhubungan erat[22m
+Mon 12 Dec 2022 11:07:41 AM WIB coarse:    [1mkasar[22m, [1myang kasar[22m
+Mon 12 Dec 2022 11:28:40 AM WIB shallow:    [1mdangkal[22m, [1mkecil[22m
+Mon 12 Dec 2022 11:32:15 AM WIB assess:    [1mmenilai[22m, [1mmenaksir[22m, [1mpenilaian[22m
+Mon 12 Dec 2022 11:34:59 AM WIB rely:    [1mmengandalkan[22m, [1mbergantung[22m
+Mon 12 Dec 2022 11:35:16 AM WIB gazetteers:    [1mgazetteers[22m, [1mpara gazetteer[22m, [1mkamus[22m
+Mon 12 Dec 2022 11:36:03 AM WIB gene:    [1mgen[22m, [1mGen[22m
+Mon 12 Dec 2022 11:36:47 AM WIB exhaustive:    [1mlengkap[22m, [1mmendalam[22m, [1mmenyeluruh[22m
+Mon 12 Dec 2022 11:39:46 AM WIB infermention:    [1mmenyebutkan[22m, [1mpenyebutan[22m, [1mmenyebut[22m, [1msebut[22ms:    [1mkesimpulan[22m, [1minferensi[22m
+Mon 12 Dec 2022 11:47:29 AM WIB latent:    [1mterpendam[22m, [1mtersembunyi[22m, [1mlaten[22m
+Mon 12 Dec 2022 11:48:12 AM WIB intricate:    [1mrumit[22m, [1myang rumit[22m
+Mon 12 Dec 2022 11:50:18 AM WIB descent:    [1mturun[22m, [1mketurunan[22m, [1mturunnya[22m
+Mon 12 Dec 2022 12:05:22 PM WIB intrinsically:    [1msecara intrinsik[22m, [1msecara hakiki[22m
+Mon 12 Dec 2022 02:31:14 PM WIB considered:    [1mdipertimbangkan[22m, [1mdianggap[22m
+Mon 12 Dec 2022 02:32:09 PM WIB coarse-grained:    [1mberbutir kasar[22m, [1mkasar[22m
+Mon 12 Dec 2022 02:32:40 PM WIB fine-grained:    [1mberbutir halus[22m, [1mhalus[22m
+Mon 12 Dec 2022 02:36:36 PM WIB evidence:    [1mbukti[22m, [1mbarang bukti[22m
+Mon 12 Dec 2022 02:37:52 PM WIB pruning:    [1mpemangkasan[22m, [1mmemangkas[22m
+Mon 12 Dec 2022 03:02:01 PM WIB empirical:    [1mempiris[22m, [1mbersifat empiris[22m
+Mon 12 Dec 2022 03:06:03 PM WIB diversely:    [1mberagam[22m, [1mberbeda-beda[22m
+Mon 12 Dec 2022 03:07:15 PM WIB utterances:    [1mucapan[22m, [1mucapan-ucapan[22m
+Mon 12 Dec 2022 03:15:08 PM WIB mention:    [1mmenyebutkan[22m, [1mpenyebutan[22m, [1mmenyebut[22m, [1msebut[22m
+Mon 12 Dec 2022 03:21:10 PM WIB augmentation:    [1maugmentasi[22m, [1mpembesaran[22m
+Mon 12 Dec 2022 03:23:23 PM WIB corresponding:    [1msesuai[22m, [1mkorespondensi[22m
+Mon 12 Dec 2022 03:25:55 PM WIB roughly:    [1mdengan kasar[22m, [1mkira-kira[22m, [1mkurang lebih[22m
+Mon 12 Dec 2022 03:27:34 PM WIB preliminary:    [1mpendahuluan[22m, [1mawal[22m
+Mon 12 Dec 2022 07:03:29 PM WIB curatable:    [1mdapat dikuratori[22m, [1mbisa dikurasi[22m
+Mon 12 Dec 2022 07:57:09 PM WIB syllabification:    [1msuku kata[22m, [1mpenyusunan suku kata[22m
+Mon 12 Dec 2022 08:01:01 PM WIB sparsity:    [1msparsity[22m, [1mketersebaran[22m
+Mon 12 Dec 2022 08:04:00 PM WIB synthesizers:    [1msynthesizer[22m, [1mpenyintas[22m
+Mon 12 Dec 2022 08:05:09 PM WIB corpus:    [1mkorpus[22m, [1mtubuh[22m
+Mon 12 Dec 2022 08:06:44 PM WIB phonemic:    [1mfonemis[22m, [1mfonemik[22m, [1mfonem[22m
+Mon 12 Dec 2022 08:15:25 PM WIB depicts:    [1mmenggambarkan[22m, [1mmelukiskan[22m
+Mon 12 Dec 2022 08:22:24 PM WIB nuclei:    [1minti[22m, [1mnukleus[22m
+Mon 12 Dec 2022 08:36:22 PM WIB implies:    [1mmenyiratkan[22m, [1mberarti[22m
+Mon 12 Dec 2022 08:41:21 PM WIB phonotactic:    [1mfonotaktik[22m, [1mphonotactic[22m
+Mon 12 Dec 2022 08:44:57 PM WIB capable:    [1mmampu[22m, [1mberkemampuan[22m
+Tue 13 Dec 2022 05:49:11 PM WIB benchmark:    [1mtolok ukur[22m, [1mbenchmark[22m
+Tue 13 Dec 2022 05:51:37 PM WIB burden:    [1mbeban[22m, [1mmembebani[22m
+Tue 13 Dec 2022 05:52:42 PM WIB prone:    [1mRentan[22m, [1mpunya kecenderungan[22m, [1mcenderung[22m, [1mmudah[22m, [1mrawan[22m
+Tue 13 Dec 2022 05:53:39 PM WIB bottleneck:    [1mkemacetan[22m, [1mhambatan[22m, [1mleher botol[22m
+Tue 13 Dec 2022 05:54:06 PM WIB scarcity:    [1mkelangkaan[22m, [1mkekurangan[22m
+Tue 13 Dec 2022 05:54:48 PM WIB nevertheless:    [1mnamun demikian[22m, [1mnamun[22m, [1mmeskipun demikian[22m, [1mbagaimanapun juga[22m
+Tue 13 Dec 2022 06:01:56 PM WIB severe:    [1mberat[22m, [1mparah[22m, [1mhebat[22m, [1msangat parah[22m
+Tue 13 Dec 2022 06:08:31 PM WIB harness:    [1mmemanfaatkan[22m, [1mbaju zirah[22m
+Tue 13 Dec 2022 06:13:00 PM WIB refine:    [1mmenyaring[22m, [1mmembesut[22m, [1mmenghaluskan[22m, [1mmemperhalus[22m, [1mmenyempurnakan[22m
+Tue 13 Dec 2022 06:28:28 PM WIB preliminaries:    [1mpersiapan[22m, [1mpendahuluan[22m, [1mbabak penyisihan[22m
+Tue 13 Dec 2022 06:35:13 PM WIB imposes:    [1mmemaksakan[22m, [1mmembebankan[22m
+Tue 13 Dec 2022 06:43:34 PM WIB embeddings:    [1membeddings[22m, [1mpenyematan[22m
+Tue 13 Dec 2022 06:47:04 PM WIB suppressed:    [1mtertindas[22m, [1mditekan[22m, [1mtertekan[22m
+Tue 13 Dec 2022 06:57:52 PM WIB gazetter:    [1mwartawan[22m, [1mjurnalis[22m, [1mGazetter[22m
+Tue 13 Dec 2022 07:02:46 PM WIB favors:    [1mnikmat[22m, [1mbantuan[22m
+Tue 13 Dec 2022 07:04:43 PM WIB comprising:    [1mterdiri[22m, [1myang terdiri dari[22m
+Tue 13 Dec 2022 07:06:02 PM WIB appendix:    [1mlampiran[22m, [1musus buntu[22m
+Tue 13 Dec 2022 07:12:36 PM WIB eases:    [1mmereda[22m, [1mmeringankan[22m
+Tue 13 Dec 2022 07:15:52 PM WIB compensate:    [1mmengimbangi[22m, [1mmengkompensasi[22m
+Tue 13 Dec 2022 07:19:39 PM WIB coverage:    [1mcakupan[22m, [1mjangkauan[22m
+Wed 14 Dec 2022 07:22:43 PM WIB prerequisite:    [1mprasyarat[22m, [1mpersyaratan[22m
+Wed 14 Dec 2022 07:30:08 PM WIB scholars:    [1msarjana[22m, [1mcendekiawan[22m
+Wed 14 Dec 2022 07:43:09 PM WIB evolve:    [1mberkembang[22m, [1mmengembangkan[22m, [1mberevolusi[22m
+Wed 14 Dec 2022 07:57:53 PM WIB surrounding:    [1msekitarnya[22m, [1msekeliling[22m
+Wed 14 Dec 2022 08:09:08 PM WIB constraint:    [1mpaksaan[22m, [1mpembatas[22m, [1mkendala[22m, [1mbatasan[22m
+Wed 14 Dec 2022 08:26:27 PM WIB thereby:    [1mdemikian[22m, [1mdengan begitu[22m
+Wed 14 Dec 2022 08:33:23 PM WIB annotate:    [1mmembubuhi keterangan[22m, [1mberi anotasi[22m
+Wed 14 Dec 2022 08:47:56 PM WIB alteration:    [1mperubahan[22m, [1mpengubahan[22m, [1malterasi[22m
+Wed 14 Dec 2022 08:48:55 PM WIB retaining:    [1mmempertahankan[22m, [1mpenahan[22m
+Thu 15 Dec 2022 05:35:37 PM WIB necessity:    [1mkebutuhan[22m, [1mkeperluan[22m
+Thu 15 Dec 2022 05:37:30 PM WIB essential:    [1mpenting[22m, [1msangat penting[22m
+Thu 15 Dec 2022 05:48:21 PM WIB aforementioned:    [1mtersebut di atas[22m, [1mtersebut[22m, [1myang disebutkan di atas[22m
+Thu 15 Dec 2022 09:48:53 PM WIB preserves:    [1mmelestarikan[22m, [1mdiawetkan[22m
+Thu 15 Dec 2022 09:49:00 PM WIB salient:    [1mmenonjol[22m, [1mpenting[22m
+Thu 15 Dec 2022 10:34:06 PM WIB susceptibility:    [1mkerawanan[22m, [1mkerentanan[22m, [1mkepekaan[22m
+Thu 15 Dec 2022 10:45:50 PM WIB offers:    [1mpenawaran[22m, [1mtawaran[22m
+Thu 15 Dec 2022 10:50:06 PM WIB hazard:    [1mbahaya[22m, [1mrisiko[22m
+Thu 15 Dec 2022 10:59:17 PM WIB cumbersome:    [1mrumit[22m, [1mtidak praktis[22m
+Thu 15 Dec 2022 10:59:42 PM WIB tedious:    [1mmembosankan[22m, [1mmenjemukan[22m
+Thu 15 Dec 2022 11:03:36 PM WIB pluvial:    [1myg berhubung dgn hujan[22m, [1mpluvial[22m, [1msubur[22m
+Thu 15 Dec 2022 11:11:21 PM WIB impervious:    [1mtahan[22m, [1mkedap air[22m
+Fri 16 Dec 2022 12:32:19 AM WIB undermine:    [1mmerusak[22m, [1mmengurangi[22m, [1mmenggerogoti[22m, [1mmelemahkan[22m, [1mmerongrong[22m
+Fri 16 Dec 2022 12:36:39 AM WIB discrete:    [1mdiskrit[22m, [1mterpisah[22m
+Fri 16 Dec 2022 01:58:14 AM WIB indices:    [1mindeks[22m, [1mindex[22m
+Fri 16 Dec 2022 02:06:38 AM WIB implied:    [1mtersirat[22m, [1mmenyiratkan[22m
+Fri 16 Dec 2022 03:47:21 PM WIB scarce:    [1mlangka[22m, [1mjarang[22m, [1msedikit[22m
+Fri 16 Dec 2022 09:20:43 PM WIB fusion:    [1mfusi[22m, [1mperpaduan[22m, [1mpeleburan[22m
+Fri 16 Dec 2022 09:27:45 PM WIB convenience:    [1mkenyamanan[22m, [1mkemudahan[22m
+Fri 16 Dec 2022 09:33:17 PM WIB reliance:    [1mkepercayaan[22m, [1mketergantungan[22m
+Fri 16 Dec 2022 09:36:42 PM WIB infers:    [1mmenyimpulkan[22m, [1mdisimpulkan[22m
+Fri 16 Dec 2022 10:55:42 PM WIB fellow:    [1msesama[22m, [1mrekan[22m, [1morang[22m
+Fri 16 Dec 2022 10:57:25 PM WIB retains:    [1mmempertahankan[22m, [1mtetap[22m
+Mon 19 Dec 2022 06:53:39 PM WIB ontology:    [1montologi[22m
+Mon 19 Dec 2022 07:16:53 PM WIB tremendously:    [1msangat[22m, [1mamat[22m, [1msecara luar biasa[22m
+Tue 20 Dec 2022 08:43:14 PM WIB outperformed:    [1mmengungguli[22m, [1munggul[22m
+Tue 20 Dec 2022 08:55:46 PM WIB neglected:    [1mditelantarkan[22m, [1mterlantar[22m, [1mdiabaikan[22m, [1mterbengkalai[22m
+Tue 20 Dec 2022 09:38:22 PM WIB fuse:    [1msekering[22m, [1mmemadukan[22m, [1msumbu[22m, [1mmelebur[22m, [1mberfusi[22m
+Tue 27 Dec 2022 08:54:16 PM WIB hampered:    [1mterhambat[22m, [1mterganggu[22m, [1mterhalang[22m
+Fri 30 Dec 2022 08:58:57 AM WIB pitfalls:    [1mjebakan[22m, [1mperangkap[22m
+Fri 30 Dec 2022 09:17:41 AM WIB diversity:    [1mkeberagaman[22m, [1mperbedaan[22m, [1mkeragaman[22m, [1mkeanekaragaman[22m
+Fri 30 Dec 2022 09:34:25 AM WIB foible:    [1mkelemahan[22m, [1mkekurangan[22m, [1mlemah[22m
+Fri 30 Dec 2022 10:41:39 AM WIB duds:    [1mpakaian[22m, [1mtidak berguna[22m
+Fri 30 Dec 2022 02:11:36 PM WIB erodes:    [1mmengikis[22m, [1mterkikis[22m
+Fri 30 Dec 2022 02:47:46 PM WIB pristine:    [1mmurni[22m, [1masli[22m, [1mmasih asli[22m
+Fri 30 Dec 2022 05:50:25 PM WIB doubt:    [1mragu[22m, [1mkeraguan[22m
+Mon 09 Jan 2023 11:28:24 AM WIB opposed:    [1mmenentang[22m, [1mlawan[22m
+Fri 13 Jan 2023 02:58:20 PM WIB ubiquitous:    [1mdi mana-mana[22m, [1mada di mana-mana[22m
+Sat 14 Jan 2023 12:47:43 AM WIB diversification:    [1mdiversifikasi[22m
+Sat 14 Jan 2023 12:47:55 AM WIB obvious:    [1mjelas[22m, [1mnyata[22m, [1msudah jelas[22m
+Mon 16 Jan 2023 12:20:34 AM WIB pursuing:    [1mmengejar[22m, [1msedang mengejar[22m
+Mon 30 Jan 2023 02:44:41 PM WIB sophisticated:    [1mrumit[22m, [1mberpengetahuan[22m, [1mcanggih[22m, [1mmutakhir[22m
+Mon 30 Jan 2023 03:47:57 PM WIB particularly:    [1mkhususnya[22m, [1mterutama[22m, [1msecara khusus[22m
+Mon 30 Jan 2023 03:50:32 PM WIB perturbation:    [1mgangguan[22m, [1mkegelisahan[22m, [1mkekacauan[22m, [1mperturbasi[22m
+Tue 31 Jan 2023 10:16:51 PM WIB aggravate:    [1mmemperberat[22m, [1mmemperburuk[22m, [1mmemperparah[22m
+Tue 31 Jan 2023 11:35:30 PM WIB constrained:    [1mdibatasi[22m, [1mterkendala[22m
+Tue 31 Jan 2023 11:42:49 PM WIB hypershpere:    [1mhypersphere[22m, [1mhiperbola[22m
+Tue 31 Jan 2023 11:44:29 PM WIB stringent:    [1mketat[22m, [1mkeras[22m, [1msangat ketat[22m
+Wed 01 Feb 2023 12:12:51 PM WIB feasibility:    [1mkelayakan[22m, [1mkemungkinan[22m
